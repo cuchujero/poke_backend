@@ -1,0 +1,8 @@
+API
+
+/pokemons (GET) 
+/movimientos (GET)
+/tipos (GET)
+
+En los endpoint se puede consultar un recurso particular enviando el id por consulta parametrizada
+En los endpoint puede utilizarse por query string el parametro "limit"
