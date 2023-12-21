@@ -18,23 +18,23 @@ En caso de que necesite cargar la informacion a su base de datos, debe setear la
 
 ## Valores de archivo .env
 
-TEST_DB_USERNAME="cuchujero"
-TEST_DB_PASSWORD="Goku123!"
-TEST_DB_DATABASE="cuchujero_poke_test"
-TEST_DB_HOST="mysql-cuchujero.alwaysdata.net"
-TEST_DB_DIALECT="mysql"
-TEST_DB_PORT=3306
-
-PRODUCTION_DB_USERNAME="cuchujero"
-PRODUCTION_DB_PASSWORD="Goku123!"
-PRODUCTION_DB_DATABASE="cuchujero_poke_test"
-PRODUCTION_DB_HOST="mysql-cuchujero.alwaysdata.net"
-PRODUCTION_DB_DIALECT="mysql"
-PRODUCTION_DB_PORT=3306
-
-BEARER_TOKEN="Axx190zFQ7dsf***AYE24u5XZA"
-
-CHARGE_PROCESS="false"
+TEST_DB_USERNAME="cuchujero" 
+TEST_DB_PASSWORD="Goku123!" 
+TEST_DB_DATABASE="cuchujero_poke_test" 
+TEST_DB_HOST="mysql-cuchujero.alwaysdata.net" 
+TEST_DB_DIALECT="mysql" 
+TEST_DB_PORT=3306 
+ 
+PRODUCTION_DB_USERNAME="cuchujero" 
+PRODUCTION_DB_PASSWORD="Goku123!" 
+PRODUCTION_DB_DATABASE="cuchujero_poke_test" 
+PRODUCTION_DB_HOST="mysql-cuchujero.alwaysdata.net" 
+PRODUCTION_DB_DIALECT="mysql" 
+PRODUCTION_DB_PORT=3306 
+ 
+BEARER_TOKEN="Axx190zFQ7dsf***AYE24u5XZA" 
+ 
+CHARGE_PROCESS="false" 
 
 
 ## Dependencias
